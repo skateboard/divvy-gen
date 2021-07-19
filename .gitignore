@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+cards.csv
+config-bruhdulla.json
+gradle
+.DS_Store
