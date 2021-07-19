@@ -26,3 +26,11 @@
 
 # Recommendations
 I recommend 5-10 second delay to avoid account getting locked for generating to many cards
+
+# Usage
+To use go to [Latest Release](https://github.com/skateboard/divvy-gen/releases/tag/1.0) and download.
+once downloaded make sure you have a config in the same folder called ```config.json``` with the config format as seen above. Simply run this
+```
+java -jar divvy-gen.jar
+```
+and follow the steps it asks for
