@@ -23,7 +23,7 @@ it private. Enjoy :)
     "name": "NAME_OF_CARDS"
   },
   "settings": {
-    "time_out": TIMEOUT
+    "time_out": 5
   }
 }
 ```
