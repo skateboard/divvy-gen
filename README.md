@@ -5,7 +5,7 @@
 <br />
 
 # Reason
-My reason for open sourcing this, I made this gen as free lance dev work but since AYCD added it their is no point in keeping
+My reason for open sourcing this, I made this gen as free lance dev work but since AYCD added it there is no point in keeping
 it private. Enjoy :)
 
 # Basic Config
